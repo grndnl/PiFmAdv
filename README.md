@@ -218,4 +218,7 @@ The samples are played by `pi_fm_adv.c` that is adapted from Richard Hirst's [Pi
 
 --------
 
-© [Miegl](https://miegl.cz) & [Christophe Jacquet](http://www.jacquet80.eu/) (F8FTK), 2014-2017. Released under the GNU GPL v3.
+```
+cd PiFmAdv/src/
+sudo ./pi_fm_adv --audio ~/noise_22050.wav --freq 87.5
+```
